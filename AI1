@@ -1,3 +1,5 @@
+Devlop an element chatbot for any suitable customer interaction application 
+
 def simple_chatbot(user_input):
     user_input = user_input.lower()
     if "hello" in user_input or "hi" in user_input:
